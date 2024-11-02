@@ -2,8 +2,6 @@
 
 **Project Name:** `passwordEncrypter.py`  
 **Created by:** Coderip & JBandzCode  
-**License:** MIT License  
-
 ---
 
 ## 📖 Overview
